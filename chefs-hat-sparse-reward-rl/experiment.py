@@ -1,0 +1,6 @@
+print("Run separate experiments by modifying config parameters:")
+print("- With reward shaping")
+print("- Without reward shaping")
+print("- Gamma comparison (0.95 vs 0.99)")
+print("- Entropy comparison (0.01 vs 0.05)")
+print("- Multiple seeds")
